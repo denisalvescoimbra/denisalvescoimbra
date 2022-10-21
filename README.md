@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Denis Alves Coimbra
 
-- 🔭 Hoje estou estudando Desenvolvimento Web na Trybe
-- 🌱 Estudando Git, Github, HTML, CSS, Javascript.
+- 🔭 Hoje estou estudando Desenvolvimento Web. 
+- 🌱 Estudando Git, Github, HTML, CSS, Javascript, ReactJS.
 
 
   <div style="display: inline_block"><br>
